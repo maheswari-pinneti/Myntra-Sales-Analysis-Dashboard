@@ -95,10 +95,9 @@ Through this project, I gained hands-on experience in:
 
 ## 📈 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Dashboard Preview](Dashboard%20Preview.png)
 
-![Dashboard Preview](Myntra Sales Analysis Dashboard.pdf)
-
+📄 [View Complete Dashboard Report](./Myntra%20Sales%20Analysis%20Dashboard.pdf)
 ---
 
 ## 🎯 Project Outcome
