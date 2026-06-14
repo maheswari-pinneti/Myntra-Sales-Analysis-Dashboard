@@ -97,7 +97,7 @@ Through this project, I gained hands-on experience in:
 
 (Add Dashboard Screenshot Here)
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Myntra Sales Analysis Dashboard.pdf)
 
 ---
 
